@@ -4,7 +4,7 @@ import os
 import sys
 
 #.venv\Scripts\activate.bat
-# command to run django virtual server or something like this )
+# (command to run django virtual server or something like this )
 
 def main():
     """Run administrative tasks."""
